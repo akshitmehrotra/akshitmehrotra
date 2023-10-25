@@ -47,8 +47,8 @@
   <h2 align="center">My Portfolio</h2>
 
   <div align=center>
-    <a href="www.akshitmehrotra.in">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASVISJAIN&theme=react&show_icons=true&hide_border=true&layout=compact" />
+    <a href="https://www.akshitmehrotra.in/">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitmehrotra&theme=react&show_icons=true&hide_border=true&layout=compact" />
     </a>
   </div>
   <br>
